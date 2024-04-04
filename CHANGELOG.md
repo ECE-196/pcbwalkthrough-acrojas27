@@ -13,6 +13,7 @@ Added pictures
 ### Changed
 ...
 Changelog
+Changed jpeg names
 
 ### Removed
 ...
