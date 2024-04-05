@@ -14,6 +14,7 @@ Added pictures
 ...
 Changelog
 Changed jpeg names
+Changed jpeg names
 
 ### Removed
 ...
