@@ -15,6 +15,8 @@ Added pictures
 Changelog
 Changed jpeg names
 Changed jpeg names
+Deleted jpeg images
+Added jpg images with correct file names
 
 ### Removed
 ...
